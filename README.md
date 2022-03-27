@@ -1,2 +1,1 @@
-# test-coursera
-Test du cours de coursera sur Git
+I am editing the README file. Adding some more details about the project description.
